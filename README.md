@@ -17,7 +17,7 @@ The project leverages a variety of technologies to achieve its objectives:
 
 ## Dataset 
 For this porject, I simulated stock market data from a csv file, which was then sent to the kafka producer and streamed in real time to the kafka consumer.
-For reference, the dataset used in the video can be found [here](https://github.com/darshilparmar/stock-market-kafka-data-engineering-project/blob/main/indexProcessed.csv). 
+For reference, the dataset used in the video can be found [here](indexProcessed.csv). 
 
 ## Project Structure 
 - **Data Ingestion**: Setting up Kafka to collect real-time stock market data. -
