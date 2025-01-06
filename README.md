@@ -2,7 +2,7 @@
 
 ## Overview
 In this project, I completed an End-To-End Data Engineering Project on Real-Time Stock Market Data using Kafka. The primary objective was to build a robust data pipeline to handle real-time data processing and below is the pipeline architecture 
-![My Image](Images/![My Image](Images/Architecture.png)
+![My Image](Images/Architecture.png)
 
 ## Tech Stack
 The project leverages a variety of technologies to achieve its objectives:
